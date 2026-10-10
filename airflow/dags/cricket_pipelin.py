@@ -182,5 +182,15 @@ tags=["exam"],
           --select "path:models/BRONZE"
         """,
     )
+    gold_din_fact = BashOperator(
+        task_id="gold_din_fact",
+        bash_command="""
+        cd "/airflow/dbt/analytics"
+        dbt build \
+          --project-dir "/airflow/dbt/analytics" \
+          --profiles-dir "/airflow/.dbt" \
+          --select "path:models/SILVER"
+        """,
+    )
 
-    load_raw_data >> dbt_staging  
+    load_raw_data >> dbt_staging >> gold_din_fact  
