@@ -163,7 +163,8 @@ default_args={
 "retry_delay": timedelta(minutes=1)
 },
 start_date=datetime(2026, 1, 1),
-schedule=None,
+
+schedule="0 * * * *",
 catchup=False,
 tags=["exam"],
 ) as dag:
