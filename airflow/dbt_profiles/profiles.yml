@@ -1,0 +1,15 @@
+CRICKET_DB_EXAM:
+  target: dev
+
+  outputs:
+    dev:
+      type: snowflake
+      account: "{{ env_var('SNOWFLAKE_ACCOUNT', 'VYOVWTY-MEB03720') }}"
+      user: "{{ env_var('SNOWFLAKE_USER', 'SWAYAMKENEXAIEXAM') }}"
+      password: "{{ env_var('SNOWFLAKE_PASSWORD', '$wayaM12345678') }}"
+      role: "{{ env_var('SNOWFLAKE_ROLE', 'ACCOUNTADMIN') }}"
+      database: 'CRICKET_DB'
+      schema: "{{ env_var('SNOWFLAKE_SCHEMA', 'RAW') }}"
+      warehouse: "{{ env_var('SNOWFLAKE_WAREHOUSE', 'ANALYTICS_WH') }}"
+      threads: 4
+ 

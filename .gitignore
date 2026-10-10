@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+airflow/logs/
+logs/
+.env
+airflow/.env
+
+target/
+dbt_packages/
+dbt/logs/
+.user.yml
+
+airflow/data/*.csv

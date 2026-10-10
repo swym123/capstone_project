@@ -1,0 +1,179 @@
+delivery_id
+
+delivery_timestamp
+
+innings_no
+
+over_no
+
+ball_in_over
+
+runs_off_bat
+
+extra_type
+
+extra_runs
+
+total_runs
+
+is_wicket
+
+dismissal_type
+
+ball_speed_kmph
+
+non_striker_id
+
+shot_type
+
+shot_region
+
+match_id --
+
+match_date --
+
+match_format --
+
+tournament_name --
+
+season --
+
+match_stage --
+
+toss_decision --
+
+venue_id --done
+
+venue_name --
+
+venue_city ---
+
+venue_country --
+
+batting_team_id --
+
+batting_team_name --
+
+bowling_team_id --
+
+bowling_team_name --
+
+batsman_id --
+ 
+batsman_name --
+
+batsman_dob --
+
+batsman_nationality --
+
+batting_hand -- 
+
+batsman_role --
+
+batsman_email --
+
+batsman_phone --
+
+batsman_icc_rating --
+
+bowler_id --
+
+bowler_name --
+ 
+bowler_nationality --
+
+bowling_style --
+ 
+bowler_icc_rating --
+
+contract_id --
+
+contract_grade --
+
+annual_retainer_usd --
+
+contract_status --
+
+drs_review_id --
+
+drs_reviewed_by --
+
+drs_original_decision --
+
+drs_outcome --
+
+
+
+
+delivery_id                                      delivery_timestamp                                  innings_no                         over_no                            ball_in_over                        runs_off_bat                       extra_type                      extra_runs                         total_runs                          is_wicket                             dismissal_type                       ball_speed_kmph                       non_striker_id                             shot_type                                  shot_region                  match_id                                  match_date                                  match_format                                  tournament_name                                  season                                  match_stage                                  toss_decision                                  venue_id                                  venue_name                                  venue_city                                  venue_country                                  batting_team_id                                  batting_team_name                                  bowling_team_id                                  bowling_team_name                                  batsman_id                                  batsman_name                                  batsman_dob                                  batsman_nationality                                  batting_hand                                  batsman_role                                  batsman_email                                  batsman_phone                                  batsman_icc_rating                                  bowler_id                                  bowler_name                                  bowler_nationality                                  bowling_style                                  bowler_icc_rating                                  contract_id                                  contract_grade                                  annual_retainer_usd                                  contract_status                                  drs_review_id                                  drs_reviewed_by                                  drs_original_decision                                  drs_outcome
+DLV000000000001                                  2018-01-03 19:30:37                                  1                                  1                                  1                                  6                                                                    0                                  6                                  False                                                                    142.6                                  PLR000175                                  Slog Sweep                                  Deep Mid Wicket              MCH0000001                                  2018-01-03                                  T20                                  Southern Cross T20 Bash                                  2018                                  Qualifier 2                                  Field                                  VEN014                                  Perth Stadium                                  Perth                                  Australia                                  TM206                                  Hobart Harriers                                  TM204                                  Brisbane Bolts                                  PLR000226                                  Lachlan Hayes                                  1986-02-16                                  Australia                                  Right-hand Bat                                  Batsman                                  lachlan.hayes69@outlook.com                                  +617571069113                                  701                                  PLR000235                                  Liam Fletcher                                  Australia                                  Right-arm Fast-Medium                                  776                                  CTR0000160                                  Grade A                                  564387.61                                  Active                                                                                                                                        
+DLV000000000002                                  2018-01-03 19:31:17                                  1                                  1                                  2                                  4                                                                    0                                  4                                  False                                                                    136.6                                  PLR000175                                  Square Drive                                  Third Man                  MCH0000001                                  2018-01-03                                  T20                                  Southern Cross T20 Bash                                  2018                                  Qualifier 2                                  Field                                  VEN014                                  Perth Stadium                                  Perth                                  Australia                                  TM206                                  Hobart Harriers                                  TM204                                  Brisbane Bolts                                  PLR000226                                  Lachlan Hayes                                  1986-02-16                                  Australia                                  Right-hand Bat                                  Batsman                                  lachlan.hayes69@outlook.com                                  +617571069113                                  701                                  PLR000235                                  Liam Fletcher                                  Australia                                  Right-arm Fast-Medium                                  776                                  CTR0000160                                  Grade A                                  564387.61                                  Active                                                                                                                                        
+DLV000000000003                                  2018-01-03 19:31:58                                  1                                  1                                  3                                  0                                                                    0                                  0                                  True                                  LBW                                  138.0                                  PLR000175                                  Defensive Block                                                        MCH0000001                                  2018-01-03                                  T20                                  Southern Cross T20 Bash                                  2018                                  Qualifier 2                                  Field                                  VEN014                                  Perth Stadium                                  Perth                                  Australia                                  TM206                                  Hobart Harriers                                  TM204                                  Brisbane Bolts                                  PLR000226                                  Lachlan Hayes                                  1986-02-16                                  Australia                                  Right-hand Bat                                  Batsman                                  lachlan.hayes69@outlook.com                                  +617571069113                                  701                                  PLR000235                                  Liam Fletcher                                  Australia                                  Right-arm Fast-Medium                                  776                                  CTR0000160                                  Grade A                                  564387.61                                  Active                                                                                                                                        
+DLV000000000004                                  2018-01-03 19:32:36                                  1                                  1                                  4                                  2                                                                    0                                  2                                  False                                                                    125.6                                  PLR000175                                  Sweep                                  Fine Leg                          MCH0000001                                  2018-01-03                                  T20                                  Southern Cross T20 Bash                                  2018                                  Qualifier 2                                  Field                                  VEN014                                  Perth Stadium                                  Perth                                  Australia                                  TM206                                  Hobart Harriers                                  TM204                                  Brisbane Bolts                                  PLR000179                                    hamish carroll                                    1984-05-22                                  Australia                                  Right-hand Bat                                  Batsman                                  hamish.carroll47@outlook.com                                  +616266821961                                  539                                  PLR000235                                  Liam Fletcher                                  Australia                                  Right-arm Fast-Medium                                  776                                  CTR0000129                                  Grade C                                  169809.25                                  Active                                                                                                                                        
+DLV000000000005                                  2018-01-03 19:33:04                                  1                                  1                                  5                                  0                                                                    0                                  0                                  False                                                                    135.7                                  PLR000175                                  Leave                                                                    MCH0000001                                  2018-01-03                                  T20                                  Southern Cross T20 Bash                                  2018                                  Qualifier 2                                  Field                                  VEN014                                  Perth Stadium                                  Perth                                  Australia                                  TM206                                  Hobart Harriers                                  TM204                                  Brisbane Bolts                                  PLR000179                                  Hamish Carroll                                  05/22/1984                                  Australia                                  Right-hand Bat                                  Batsman                                  hamish.carroll47@outlook.com                                  +616266821961                                  539                                  PLR000235                                  Liam Fletcher                                  Australia                                  Right-arm Fast-Medium                                  776                                  CTR0000129                                  Grade C                                  169809.25                                  Active                                                                                                                                        
+DLV000000000006                                  2018-01-03 19:33:51                                  1                                  1                                  6                                  0                                  Wide                                  1                                  1                                  False                                                                    138.4                                  PLR000175                                                                                                      MCH0000001                                  03-01-2018                                  T20                                  Southern Cross T20 Bash                                  2018                                  Qualifier 2                                  Field                                  VEN014                                  Perth Stadium                                  Perth                                  Australia                                  TM206                                  Hobart Harriers                                  TM204                                  Brisbane Bolts                                  PLR000179                                  Hamish Carroll                                  1984-05-22                                  Australia                                  Right-hand Bat                                  Batsman                                  hamish.carroll47@outlook.com                                  +616266821961                                  539                                  PLR000235                                  Liam Fletcher                                  Australia                                  Right-arm Fast-Medium                                  776                                  CTR0000129                                  Grade C                                  169809.25                                  Active                                                                                                                                        
+DLV000000000007                                  2018-01-03 19:34:30                                  1                                  1                                  7                                  1                                                                    0                                  1                                  False                                                                    129.4                                  PLR000175                                  Cut                                  Deep Cover                                  MCH0000001                                  2018-01-03                          T20                                  Southern Cross T20 Bash                                  2018                                  Qualifier 2                                  Field                                  VEN014                                  Perth Stadium                                    perth                                    Australia                                  TM206                                  Hobart Harriers                                  TM204                                  Brisbane Bolts                                  PLR000179                                  Hamish Carroll                                  1984-05-22                                  Australia                                  Right-hand Bat                                  Batsman                                  hamish.carroll47@outlook.com                                  +616266821961                                  539                                  PLR000235                                  Liam Fletcher                                  Australia                                  Right-arm Fast-Medium                                  776                                  CTR0000129                                  Grade C                                  169809.25                                  Active                                                                                                                                        
+DLV000000000008                                  2018-01-03 19:35:52                                  1                                  2                                  1                                  0                                  Leg Bye                                  2                                  2                                  False                                                                    118.9                                  PLR000175                                  Padded Away                                  Mid Wicket                                  MCH0000001                                  01/03/2018              T20                                  Southern Cross T20 Bash                                  2018                                  Qualifier 2                                  Field                                  VEN014                                  Perth Stadium                                  Perth                                  Australia                                  TM206                                  Hobart Harriers                                  TM204                                  Brisbane Bolts                                  PLR000179                                  Hamish Carroll                                  1984-05-22                                  Australia                                  Right-hand Bat                                  Batsman                                  hamish.carroll47@outlook.com                                  +616266821961                                  539                                  PLR000578                                  Shoriful Uddin                                  Bangladesh                                  Right-arm Medium                                  400                                  CTR0000129                                  Grade C                                  169809.25                                  Active                                                                                                                                        
+DLV000000000009                                  2018-01-03 19:36:30                                  1                                  2                                  2                                  4                                                                    0                                  4                                  False                                                                    125.4                                  PLR000175                                  Cover Drive                                  Third Man                                  MCH0000001                                  2018-01-03                   T20                                  Southern Cross T20 Bash                                  2018                                  Qualifier 2                                  Field                                  VEN014                                  Perth Stadium                                  Perth                                  Australia                                  TM206                                  Hobart Harriers                                  TM204                                  Brisbane Bolts                                  PLR000179                                  Hamish Carroll                                  1984-05-22                                  Australia                                  Right-hand Bat                                  Batsman                                  hamish.carroll47@outlook.com                                  +616266821961                                  539                                  PLR000578                                  Shoriful Uddin                                  Bangladesh                                  Right-arm Medium                                  400                                  CTR0000129                                  Grade C                                  169809.25                                  Active                                                                                                                                        
+DLV000000000010                                  2018-01-03 19:37:03                                  1                                  2                                  3                                  2                                                                    0                                  2                                  False                                                                    126.2                                  PLR000175                                  Dab                                  Mid Wicket                                  MCH0000001                                  2018-01-03                           T20                                  Southern Cross T20 Bash                                  2018                                  Qualifier 2                                  Field                                  VEN014                                  Perth Stadium                                  Perth                                  Australia                                  TM206                                  Hobart Harriers                                  TM204                                  Brisbane Bolts                                  PLR000179                                  Hamish Carroll                                  1984-05-22                                  Australia                                  Right-hand Bat                                  Batsman                                  hamish.carroll47@outlook.com                                  +616266821961                                  539                                  PLR000578                                  Shoriful Uddin                                  Bangladesh                                  Right-arm Medium                                  400                                  CTR0000129                                  Grade C                                  169809.25                                  Active                                                                                                                                        
+DLV000000000011                                  2018-01-03 19:37:46                                  1                                  2                                  4                                  1                                                                    0                                  1                                  False                                                                    124.9                                  PLR000175                                  Sweep                                  Long Off                                  MCH0000001                                  01/03/2018                                  T20                                  Southern Cross T20 Bash                                  2018                                  Qualifier 2                                  Field                                  VEN014                                  Perth Stadium                                  Perth                                  Australia                                  TM206                                  Hobart Harriers                                  TM204                                  Brisbane Bolts                                  PLR000179                                  Hamish Carroll                                  1984-05-22                                  Australia                                  Right-hand Bat                                  Batsman                                  hamish.carroll47@outlook.com                                  +616266821961                                  539                                  PLR000578                                  Shoriful Uddin                                  Bangladesh                                  Right-arm Medium                                  400                                  CTR0000129                                  Grade C                                  169809.25                                  Active                                                                                                                                        
+DLV000000000012                                  2018-01-03 19:38:16                                  1                                  2                                  5                                  0                                                                    0                                  0                                  False                                                                    124.4                                  PLR000179                                  Flick                                  Deep Cover                                  MCH0000001                                  2018-01-03                                  T20                                  Southern Cross T20 Bash                                  2018                                  Qualifier 2                                  Field                                  VEN014                                  Perth Stadium                                  Perth                                  Australia                                  TM206                                  Hobart Harriers                                  TM204                                  Brisbane Bolts                                  PLR000175                                  Callum Walsh                                  08/26/1987                                  Australia                                  Left-hand Bat                                  Batsman                                  callum.walsh43@yahoo.com                                  +617951414407                                  689                                  PLR000578                                  Shoriful Uddin                                  Bangladesh                                  Right-arm Medium                                  400                                                                                                                                                                                                                                                                                
+DLV000000000013                                  2018-01-03 19:38:52                                  1                                  2                                  6                                  1                                                                    0                                  1                                  False                                                                    124.7                                  PLR000179                                  Push                                  Third Man                                  MCH0000001                                  2018-01-03                                  T20                                  Southern Cross T20 Bash                                  2018                                  Qualifier 2                                  Field                                  VEN014                                  Perth Stadium                                  Perth                                  Australia                                  TM206                                  Hobart Harriers                                  TM204                                  Brisbane Bolts                                  PLR000175                                  Callum Walsh                                  1987-08-26                                  Australia                                  Left-hand Bat                                  Batsman                                  callum.walsh43@yahoo.com                                  +617951414407                                  689                                  PLR000578                                  Shoriful Uddin                                  Bangladesh                                  Right-arm Medium                                  400                                                                                                                                                                                                                                                                                
+
+
+
+
+col = [
+delivery_id,
+delivery_timestamp,
+innings_no,
+over_no,
+ball_in_over,
+runs_off_bat,
+extra_type,
+extra_runs,
+total_runs,
+is_wicket,
+dismissal_type,
+ball_speed_kmph,
+non_striker_id,
+shot_type,
+shot_region,
+match_id,
+match_date,
+match_format,
+tournament_name,
+season,
+match_stage,
+toss_decision,
+venue_id,
+venue_name,
+venue_city,
+venue_country,
+batting_team_id,
+batting_team_name,
+bowling_team_id,
+bowling_team_name,
+batsman_id,
+batsman_name,
+batsman_dob,
+batsman_nationality,
+batting_hand,
+batsman_role,
+batsman_email,
+batsman_phone,
+batsman_icc_rating,
+bowler_id,
+bowler_name,
+bowler_nationality,
+bowling_style,
+bowler_icc_rating,
+contract_id,
+contract_grade,
+annual_retainer_usd,
+contract_status,
+drs_review_id,
+drs_reviewed_by,
+drs_original_decision,
+drs_outcome
+]

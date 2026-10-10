@@ -1,0 +1,25 @@
+name: 'analytics'
+version: '1.0.0'
+
+profile: 'CRICKET_DB_EXAM'
+
+model-paths: ["models"]
+macro-paths: ["macros"]
+
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+models:
+  analytics:
+    bronze:
+      +schema: STAGING
+      +materialized: view
+
+    silver:
+      +schema: CORE
+      +materialized: table
+
+    gold:
+      +schema: MART
+      +materialized: table
